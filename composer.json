@@ -1,0 +1,11 @@
+{
+    "autoload": {
+		"classmap": [
+        "classmap",
+		"circle"
+        ],
+		"psr-4": {
+      "Todo\\":"App/"
+    }
+    }
+}
